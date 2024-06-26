@@ -1,0 +1,114 @@
+[
+  {
+    "inheritsFrom": "1.12.2",
+    "version": "1.12.2-SNAPSHOT"
+  },
+  {
+    "inheritsFrom": "1.12.1",
+    "version": "1.12.1-SNAPSHOT"
+  },
+  {
+    "inheritsFrom": "1.12",
+    "version": "1.12-SNAPSHOT"
+  },
+  {
+    "inheritsFrom": "1.11.2",
+    "version": "1.11.2-SNAPSHOT"
+  },
+  {
+    "inheritsFrom": "1.11",
+    "version": "1.11-SNAPSHOT"
+  },
+  {
+    "inheritsFrom": "1.10.2",
+    "version": "1.10.2-SNAPSHOT"
+  },
+  {
+    "inheritsFrom": "1.10.2",
+    "version": "1.10.2"
+  },
+  {
+    "inheritsFrom": "1.9.4",
+    "version": "1.9.4"
+  },
+  {
+    "inheritsFrom": "1.10",
+    "version": "1.10-SNAPSHOT"
+  },
+  {
+    "inheritsFrom": "1.9.4",
+    "version": "1.9.4-SNAPSHOT"
+  },
+  {
+    "inheritsFrom": "1.9",
+    "version": "1.9-SNAPSHOT"
+  },
+  {
+    "inheritsFrom": "1.8",
+    "version": "1.8"
+  },
+  {
+    "inheritsFrom": "1.8.9",
+    "version": "1.8.9-SNAPSHOT"
+  },
+  {
+    "inheritsFrom": "1.7.10",
+    "version": "1.7.10_04"
+  },
+  {
+    "inheritsFrom": "1.7.10",
+    "version": "1.7.10_03"
+  },
+  {
+    "inheritsFrom": "1.7.2",
+    "version": "1.7.2_05"
+  },
+  {
+    "inheritsFrom": "1.7.10",
+    "version": "1.7.10_02"
+  },
+  {
+    "inheritsFrom": "1.7.10",
+    "version": "1.7.10_01"
+  },
+  {
+    "inheritsFrom": "1.7.10",
+    "version": "1.7.10_00"
+  },
+  {
+    "inheritsFrom": "1.7.2",
+    "version": "1.7.2_04"
+  },
+  {
+    "inheritsFrom": "1.7.2",
+    "version": "1.7.2_03"
+  },
+  {
+    "inheritsFrom": "1.7.2",
+    "version": "1.7.2_02"
+  },
+  {
+    "inheritsFrom": "1.6.4",
+    "version": "1.6.4_01"
+  },
+  {
+    "inheritsFrom": "1.6.4",
+    "version": "1.6.4_00"
+  },
+  {
+    "inheritsFrom": "1.6.2",
+    "version": "1.6.2_04"
+  },
+  {
+    "inheritsFrom": "1.6.2",
+    "version": "1.6.2_03"
+  },
+  {
+    "inheritsFrom": "1.6.2",
+    "version": "1.6.2_02"
+  },
+  {
+    "inheritsFrom": "1.6.2",
+    "version": "1.6.2_01"
+  }
+]
